@@ -1,0 +1,9 @@
+.jumbotron{
+    background-color: white;
+}
+footer{
+    background-color: grey;
+}
+.list-unstyled li {
+    display:inline;
+}
